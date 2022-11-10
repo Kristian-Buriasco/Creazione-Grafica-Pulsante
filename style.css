@@ -1,0 +1,38 @@
+
+
+.btn{
+  background-color: #ddd;
+  color: #000;
+  border: 1px solid #444;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border-left: 4px solid #444;
+}
+.btn:hover{
+  background-color: #777;
+  color: white;
+  text-decoration: underline;
+}
+.btn:active{
+  background-color: red;
+  border: 5px dotted blue;
+  color: yellow;
+  text-decoration: underline;
+}
+
+p{
+  text-align: left;
+  padding-left:50px ;
+}
+
+p:hover{color:red;
+text-decoration: underline;}
+div{
+  padding: 2px;
+}
+
+
+button{
+  display: block;
+  margin: 6px;
+}
